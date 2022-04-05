@@ -1,0 +1,41 @@
+.todo{
+    background-color: #988558;
+
+}
+
+.titulo{
+    text-align: center;
+    font-size: 100px;
+}
+
+.Patos1{
+    display: flex;
+    padding-left: 20%;
+    padding-bottom: 100px;
+}
+
+.patodef{
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+
+.tablapatos{
+    text-align: center;
+    padding-left: 15%;
+    padding-bottom: 40px;
+}
+
+.video{
+    padding-left: 40%;
+}
+
+.videot{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.boton{
+    
+}
